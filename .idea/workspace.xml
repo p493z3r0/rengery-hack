@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afd1ed21-25fa-4582-91fd-cceb317da150" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lNKWsFGjPONRZAVBA6jm2tJhWg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.23.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="10.17.48" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63344/energysonginfo/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afd1ed21-25fa-4582-91fd-cceb317da150" name="Default Changelist" comment="" />
+      <created>1607432144077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607432144077</updated>
+      <workItem from="1607432145182" duration="7287000" />
+      <workItem from="1611667072108" duration="2373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3304" y="697" width="670" height="676" key="search.everywhere.popup" timestamp="1607436107116">
+      <screen x="1680" y="25" width="3008" height="1667" />
+    </state>
+    <state x="3304" y="697" width="670" height="676" key="search.everywhere.popup/1680.25.3008.1667/0.25.1680.970@1680.25.3008.1667" timestamp="1607436107116" />
+    <state x="3369" y="884" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1607435224691">
+      <screen x="1680" y="25" width="3008" height="1667" />
+    </state>
+    <state x="3369" y="884" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1680.25.3008.1667/0.25.1680.970@1680.25.3008.1667" timestamp="1607435224691" />
+  </component>
+</project>
